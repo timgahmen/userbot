@@ -61,7 +61,7 @@ services:
     volumes:
       - ./config:/root/userbot/config
     image: ghcr.io/athphane/userbot:latest
-
+6422757860:AAFrUeqXwLcjsoaGUbsE2UXrOiK9Oeb1nN0
 ```
 - First run:
 ```bash
